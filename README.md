@@ -235,7 +235,9 @@ Example: ```lgtv.request('ssap://system.launcher/launch', {id: 'netflix'});```
 
 #### webapp/closeWebApp
 
+## How to turn on TV?
 
+You can't turn on it with this library because when tv is off server is not availabe. But you can use Wake on Lan.
 
 ## License
 
